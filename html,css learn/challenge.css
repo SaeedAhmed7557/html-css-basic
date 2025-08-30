@@ -1,0 +1,41 @@
+
+      .nike-shoes{
+        font-weight: bold;
+        font-size:23px;
+      }
+      .stock{
+        color: green;
+      }
+      .cart{
+        background-color:yellow;
+        height:36px;
+        width:106px;
+        border:none;
+        font-size:13;
+        margin-right:4px;
+        cursor:pointer;
+        border-radius:18px;
+        transition:background-color 0.15s,opacity 0.15s;
+      }
+      .cart:hover{
+        background-color: darkgoldenrod;
+      }
+      .cart:active{
+        opacity:0.6;
+      }
+      .buy{
+        background-color:rgb(236, 170, 49);
+        height:36px;
+        width:106px;
+        border:none;
+        font-size:13;
+        cursor:pointer;
+        border-radius:18px;
+        transition:background-color 0.15s,opacity 0.15s;
+      }
+      .buy:hover{
+        background-color: brown;
+      }
+      .buy:active{
+        opacity:0.6;
+      }

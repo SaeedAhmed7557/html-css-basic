@@ -1,0 +1,137 @@
+.nin{
+  background-color:rgb(255, 34, 0);
+  color:white;
+  border:none;
+  padding-right:16px;
+  padding-left:16px;
+  padding-top:10px;
+  padding-bottom:10px;
+  border-radius:3px;
+  cursor:pointer;
+  font-weight:bold;
+  font-size:15px;
+  margin-right:8px;
+  transition:box-shadow 0.15s;
+  }
+  .nin:hover{
+  box-shadow:5px 5px 10px rgba(0,0,0,0.15);
+  }
+  .nin:active{
+  opacity:0.7;
+  margin-bottom:20px ;
+  margin-right: 26px;
+  margin-left: 6px;
+  margin-top: 0px;
+  }
+  .yt{
+    background-color:rgb(26, 1, 255);
+    color:white;
+    border:none;
+    padding-right:16px;
+    padding-left:16px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border-radius:3px;
+    cursor:pointer;
+    font-weight:bold;
+    font-size:15px;
+    margin-right:8px;
+    transition:box-shadow 0.15s;
+    }
+    .yt:hover{
+    box-shadow:5px 5px 10px rgba(0,0,0,0.15);
+    }
+    .yt:active{
+    opacity:0.7;
+    margin-bottom:20px ;
+    margin-right: 26px;
+    margin-left: 6px;
+    margin-top: 0px;
+    }
+.back{
+  padding-left:10px ;
+  padding-right:10px ;
+  padding-top: 10px;
+  padding-bottom:10px ;
+  transition:background-color 0.15s,opacity 0.15s;
+  cursor:pointer;
+  margin-left:30px;
+  margin-right: 30px;
+  }
+  .back:hover{
+    background-color:greenyellow;
+  }
+  .back:active{
+    opacity:0.6;
+  }
+  .next{
+    padding-left:10px ;
+  padding-right:10px ;
+  padding-top: 10px;
+  padding-bottom:10px ;
+  transition:background-color 0.15s,opacity 0.15s;
+  cursor:pointer;
+  margin-left:30px;
+  margin-right: 30px;
+  } 
+  .back:hover{
+    background-color:greenyellow;
+  }
+  .back:active{
+    opacity:0.6;
+  }
+  .next:hover{
+    background-color:greenyellow;
+  }
+  .next:active{
+    opacity:0.6;
+  }
+.but-button{
+background-color:rgb(148, 238, 12);
+color:white;
+border:none;
+padding-right:16px;
+padding-left:16px;
+padding-top:10px;
+padding-bottom:10px;
+cursor:pointer;
+margin-right:8px;
+transition:opacity 0.50s,background-color 0.50s;
+border-radius: 4px;
+}
+.but-button:hover{
+background-color:green;
+padding-right:26px;
+padding-left:26px;
+padding-top:15px;
+padding-bottom:15px;
+transition:background-color 0.50s;
+}
+.but-button:active{
+opacity:0.4;
+}
+.shadow{
+background-color:rgb(148, 238, 12);
+color:white;
+border:none;
+padding-right:16px;
+padding-left:16px;
+padding-top:10px;
+padding-bottom:10px;
+border-radius:3px;
+cursor:pointer;
+font-weight:bold;
+font-size:15px;
+margin-right:8px;
+transition:box-shadow 0.15s;
+}
+.shadow:hover{
+box-shadow:5px 5px 10px rgba(0,0,0,0.15);
+}
+.shadow:active{
+opacity:0.7;
+margin-bottom:20px ;
+margin-right: 26px;
+margin-left: 6px;
+margin-top: 0px;
+}
